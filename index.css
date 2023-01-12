@@ -63,7 +63,8 @@ h1{
 
 .clear:hover{
     background: transparent;
-    border: 2px solid white;
+    outline: solid 2px white;
+    outline-offset: -2px;
     color: white;
 }
 
